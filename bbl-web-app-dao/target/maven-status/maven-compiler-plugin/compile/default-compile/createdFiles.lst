@@ -1,0 +1,5 @@
+dataAccess\LoginDao.class
+dataAccess\UserDao.class
+dataAccess\LibroDao.class
+dataAccess\PersonaDao.class
+Connection\Conexion.class
